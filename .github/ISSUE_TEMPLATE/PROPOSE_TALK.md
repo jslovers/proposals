@@ -16,6 +16,12 @@ Tell us about the topic of your talk and attach relavant links, paragraphs (if a
 - Framework, Library, Core Topic of JS
 - Small description
 
+## Codelab
+
+- Is is a codelab?
+- Time of Codelab
+- Partner (If any)
+
 ## First Time Speaker
 
 - Please let us know whether you are giving a talk for the first time in your career
