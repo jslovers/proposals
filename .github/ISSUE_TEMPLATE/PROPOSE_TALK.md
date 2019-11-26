@@ -10,6 +10,9 @@ assignees: 'Neha'
 
 Tell us about the topic of your talk and attach relavant links, paragraphs (if any)
 
+## Details of Event
+If you want to talk for a particular event which is already on the Meetup page, please mention the details here
+
 ## Few more details
 
 - Time of talk
